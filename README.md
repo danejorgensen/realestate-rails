@@ -14,4 +14,4 @@
 
 ## Ember.js
 
-* (Used with this Ember.js Example)[https://github.com/danejorgensen/realestate-ember-js]
+* Used with this [Ember.js Example](https://github.com/danejorgensen/realestate-ember-js)
